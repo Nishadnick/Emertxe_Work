@@ -1,0 +1,12 @@
+1. Currently logged users
+2. Your shell directory
+3. Home directory
+4. OS name & version
+5. Current working directory
+6. Number of users logged in
+7. Show all available shells in your system
+8. Hard disk information
+9. CPU information.
+10. Memory Informations
+11. File system information.
+12. Currently running process.

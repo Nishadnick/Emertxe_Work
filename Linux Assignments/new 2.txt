@@ -1,0 +1,55 @@
+
+Failed tests
+Test 1: Input from user 45.5 1.5
+Test 2: Input from user 78 2
+Test 3: Input from user 12 2
+
+Test 1: Input from user 45.5 1.5
+Incorrect program output
+--- Input ---
+ 45.5 1.5
+
+--- Program output ---
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+./vpl_test: line 271: [: -eq: unary operator expected
+Invalid input
+
+--- Expected output (text)---
+ You are NORMAL
+
+Test 2: Input from user 78 2
+Incorrect program output
+--- Input ---
+ 78 2
+
+--- Program output ---
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+./vpl_test: line 271: [: -eq: unary operator expected
+Invalid input
+
+--- Expected output (text)---
+ You are NORMAL
+
+Test 3: Input from user 12 2
+Incorrect program output
+--- Input ---
+ 12 2
+
+--- Program output ---
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+./vpl_test: line 271: [: -eq: unary operator expected
+Invalid input
+
+--- Expected output (text)---
+ You are UNDERWEIGHT
+
+Summary of tests
++------------------------------+
+|  5 tests run/ 2 tests passed |
++------------------------------+
